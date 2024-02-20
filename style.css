@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* header */
+header {
+  background-color: red;
+}
+header button {
+  background-color: white;
+  color: red;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+/* nav */
+nav {
+  background-color: green;
+}
+
+/* main */
+main {
+  background-color: yellow;
+}
+
+/* aside */
+aside {
+  background-color: blue;
+}
+
+/* footer */
+footer {
+  background-color: white;
+}
+footer button {
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
